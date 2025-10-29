@@ -1,0 +1,15 @@
+/Users/m/RiderProjects/Playlist2/bin/Debug/net9.0/Playlist2
+/Users/m/RiderProjects/Playlist2/bin/Debug/net9.0/Playlist2.deps.json
+/Users/m/RiderProjects/Playlist2/bin/Debug/net9.0/Playlist2.runtimeconfig.json
+/Users/m/RiderProjects/Playlist2/bin/Debug/net9.0/Playlist2.dll
+/Users/m/RiderProjects/Playlist2/bin/Debug/net9.0/Playlist2.pdb
+/Users/m/RiderProjects/Playlist2/obj/Debug/net9.0/Playlist2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m/RiderProjects/Playlist2/obj/Debug/net9.0/Playlist2.AssemblyInfoInputs.cache
+/Users/m/RiderProjects/Playlist2/obj/Debug/net9.0/Playlist2.AssemblyInfo.cs
+/Users/m/RiderProjects/Playlist2/obj/Debug/net9.0/Playlist2.csproj.CoreCompileInputs.cache
+/Users/m/RiderProjects/Playlist2/obj/Debug/net9.0/Playlist2.sourcelink.json
+/Users/m/RiderProjects/Playlist2/obj/Debug/net9.0/Playlist2.dll
+/Users/m/RiderProjects/Playlist2/obj/Debug/net9.0/refint/Playlist2.dll
+/Users/m/RiderProjects/Playlist2/obj/Debug/net9.0/Playlist2.pdb
+/Users/m/RiderProjects/Playlist2/obj/Debug/net9.0/Playlist2.genruntimeconfig.cache
+/Users/m/RiderProjects/Playlist2/obj/Debug/net9.0/ref/Playlist2.dll
